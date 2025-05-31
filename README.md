@@ -1,4 +1,4 @@
-
+![Profile Banner](/Media/Banner github.gif)
 # Hi there! 👋 I'm Diego
 
 ## About Me
