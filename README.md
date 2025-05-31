@@ -27,14 +27,14 @@ I'm a **Computer Engineer** passionate about building innovative solutions and c
 ## 🚀 What I'm Working On
 I'm constantly exploring new technologies and working on projects that challenge my skills and expand my knowledge in web and mobile development.
 
-## 📫 Let's Connect!
-Feel free to reach out if you'd like to collaborate on projects, discuss technology, or just chat about development!
-
 ## 📈 Some Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dievex&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dievex)](https://github.com/Dievex/github-readme-stats)
+
+## 📫 Let's Connect!
+Feel free to reach out if you'd like to collaborate on projects, discuss technology, or just chat about development!
 
 ---
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
