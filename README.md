@@ -1,4 +1,4 @@
-![Profile Banner](/Media/Banner github.gif)
+<img src="./Media/Banner github.gif" alt="Descripción" width="500">
 # Hi there! 👋 I'm Diego
 
 ## About Me
