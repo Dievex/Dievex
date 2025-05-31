@@ -28,10 +28,9 @@ I'm a **Computer Engineer** passionate about building innovative solutions and c
 I'm constantly exploring new technologies and working on projects that challenge my skills and expand my knowledge in web and mobile development.
 
 ## 📈 Some Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dievex&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dievex)](https://github.com/Dievex/github-readme-stats)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dievex&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
 
 ## 📫 Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects, discuss technology, or just chat about development!
