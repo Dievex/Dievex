@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./Media/Banner github.gif" alt="Banner de Diego" width="700" style="max-width: 100%;">
 </p>
+
 # Hi there! 👋 I'm Diego
 
 ## About Me
