@@ -92,4 +92,4 @@ Si además tengo una metodología, entonces puedo organizar una lista de element
 
 
 ---
-Documentacion obtenida del siguiente [repositorio](https://github.com/mmasias/mmasias/blob/main/traspaso/README.md)
+Documentación obtenida del siguiente [repositorio](https://github.com/mmasias/mmasias/blob/main/traspaso/README.md)
